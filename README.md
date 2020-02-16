@@ -40,4 +40,4 @@ Server will load on http://localhost:8000/
      - Creates 6 unique random numbers between 1 - 20 as winning numbers
      - Returns info about how many of your numbers were correct
      - Example call:
-        - `http://localhost:8000/lotto?number=1&number=2&number=3&number=4&number=5&number=6`
+        - `http://localhost:8000/lotto?numbers=1&numbers=2&numbers=3&numbers=4&numbers=5&numbers=6`
